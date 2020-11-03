@@ -4,8 +4,6 @@ author: 'Ziqi Gao 1003051092, Shidong Gui 1003592506, Cheng Qian 1004484569, Kai
 date: "Nov.2nd, 2020"
 output:
   pdf_document: default
-  html_document:
-    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
